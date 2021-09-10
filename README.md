@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gustafbstrom
+- 👀 I’m interested in computer architectures, programming language quirks, programming and tinkering with things. Musicianship (drumming in particular) is also fun.
+- 🌱 I’m currently learning the rust programming language.
+- 💞️ I’m looking to collaborate on projects concerning operating systems. As the Linux project is concerning opening up for rust development, I'm especially eager about what will lead into.
+- 📫 How to reach me: here on Github. I'm still currently a rather private guy, so you if anyone wants to reach out, just drop me a message.
